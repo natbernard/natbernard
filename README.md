@@ -11,7 +11,6 @@
 - I am a **Junior Data Scientist** who is looking to use data to solve real world problems 🚀.
 - I'm also the **Zindi University Ambassador** for the University of Nairobi.
 - I am passionate about using technology to solve real world problems and elevate the community.
-- I'm an avid improvever. Continuously looking for ways to learn.  
 
 ### *Get in touch:*
 [![Linkedin Badge](https://img.shields.io/badge/-natashabernard-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natasha-bernard/)](https://www.linkedin.com/in/natasha-bernard/) <br>
