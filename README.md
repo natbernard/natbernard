@@ -27,5 +27,5 @@
 
 [![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=natbernard&theme=blue-green)](https://github.com/natbernard/github-readme-streak-stats)
 
-[![Top Languages](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=natbernard&layout=compact&theme=blue-green)](https://github.com/natbernard/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natbernard&theme=blue-green)](https://github.com/natbernard/github-readme-stats)<br>
 
