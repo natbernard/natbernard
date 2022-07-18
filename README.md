@@ -5,7 +5,7 @@
 -->
 
 <!-- <img src=""> this is another way you can add in images-->
-<img src="https://github.com/natbernard/natbernard/blob/main/Hello.gif" width="150px" height="150px";>
+<img src="https://github.com/natbernard/natbernard/blob/main/Hello.gif" width="200px" height="150px">
 
 <!-- 
 ![](https://github.com/natbernard/natbernard/blob/main/Hello.gif) 
