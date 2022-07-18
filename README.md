@@ -4,9 +4,12 @@
 **natbernard/natbernard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<!-- <img src=""> this is another way you can add in images -->
+<!-- <img src=""> this is another way you can add in images-->
+<img src="https://github.com/natbernard/natbernard/blob/main/Hello.gif" style="width:500px;height:600px;>
 
-![](https://github.com/natbernard/natbernard/blob/main/Hello.gif)
+<!-- 
+![](https://github.com/natbernard/natbernard/blob/main/Hello.gif) 
+-->
 
 - I am a **Junior Data Scientist** who is looking to use data to solve real world problems 🚀.
 - I'm also the **Zindi University Ambassador** for the University of Nairobi.
