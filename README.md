@@ -11,7 +11,7 @@
 ![](https://github.com/natbernard/natbernard/blob/main/Hello.gif) 
 -->
 
-- I am a **Junior Data Scientist** who is looking to use data to solve real world problems 🚀.
+- I am a **Machine Learning Engineer** who is looking to use data to solve real world problems 🚀.
 - I'm also the **Zindi University Ambassador** for the University of Nairobi.
 - I am passionate about using technology to solve real world problems and elevate the community.
 
