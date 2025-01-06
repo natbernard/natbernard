@@ -12,7 +12,6 @@
 -->
 
 - I am a **Machine Learning Engineer** who is looking to use data to solve real world problems 🚀.
-- I'm also the **Zindi University Ambassador** for the University of Nairobi.
 - I am passionate about using technology to solve real world problems and elevate the community.
 
 ### *Get in touch:*
